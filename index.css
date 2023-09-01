@@ -1,0 +1,36 @@
+body{
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+button{
+    background: transparent;
+    border: none;
+    position: fixed;
+    
+    top: 0;
+    left: 0;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+
+p{
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: fixed;
+
+    bottom: 0;
+    right: 0;
+    margin-right: 4em;
+    margin-bottom: 4em;
+
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 200%
+}
