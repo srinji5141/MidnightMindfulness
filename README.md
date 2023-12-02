@@ -1,6 +1,6 @@
 # README.md
 
-Demo: [https://srinji5141.github.io/MidnightMindfulness.com/](https://srinji5141.github.io/MidnightMindfulness.com/)
+Demo: [https://srinji5141.github.io/MidnightMindfulness.com/](https://srinji5141.github.io/MidnightMindfulness/)
 
 Preview Image: 
 
